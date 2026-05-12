@@ -1,8 +1,8 @@
 class ClaudeRtl < Formula
   desc "RTL (right-to-left) text support for Claude Desktop on macOS"
   homepage "https://github.com/AmitSudo/claude-rtl"
-  url "https://github.com/AmitSudo/claude-rtl/archive/refs/heads/main.tar.gz"
-  version "2.0.0"
+  url "https://github.com/AmitSudo/claude-rtl/archive/refs/tags/v2.0.0.tar.gz"
+  sha256 "81c2d3f47b76d5f2024b6d06bc6394310f8bdf51ac9ef4a57a5aa72e38022315"
   license "MIT"
 
   depends_on :macos
